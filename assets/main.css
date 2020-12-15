@@ -1,0 +1,24 @@
+@font-face{
+ font-family: 'Nexa-Regular';
+  font-style: normal;  
+  src: url('~assets/Nexa-Font/NexaRegular.otf') format('truetype');
+}
+@font-face{
+    font-family: 'Nexa-Black';
+     font-style: normal;  
+     src: url('~assets/Nexa-Font/NexaBlack.otf') format('truetype');
+   }
+   @font-face{
+    font-family: 'Nexa-Thin';
+     font-style: normal;  
+     src: url('~assets/Nexa-Font/NexaThin.otf') format('truetype');
+   }
+   @font-face{
+    font-family: 'Nexa-Bold';
+     font-style: normal;  
+     src: url('~assets/Nexa-Font/NexaBold.otf') format('truetype');
+   }
+
+.navbar-container{
+    font-size:12px;
+}
