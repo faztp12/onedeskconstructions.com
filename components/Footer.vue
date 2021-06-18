@@ -63,7 +63,7 @@ export default Vue.extend({
         lng: 75.963143,
       },
       zoom: 12,
-      markerIcon: "http://www.googlemapsmarkers.com/v1/33C1AF/",
+      markerIcon: require("~/assets/google-map-marker.png"),
       map_options: {
         disableDefaultUI: true,
         styles: [
