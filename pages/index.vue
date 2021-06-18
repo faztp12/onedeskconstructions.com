@@ -3,7 +3,7 @@
     <Landing></Landing>
     <Services></Services>
     <Work></Work>
-    <Team></Team>
+    <!-- <Team></Team> -->
     <Contact></Contact>
   </div>
 </template>
@@ -21,12 +21,10 @@ export default Vue.extend({
     Services,
     Work,
     Team,
-    Contact    
+    Contact,
   },
   data: () => {
-    return {
-     
-    };
+    return {};
   },
 });
 </script>
